@@ -2,7 +2,7 @@
 
 # Bing-API
 
-[中文(简体)](README.md) | [English](README-en.md)
+[中文(简体)](README.md) | [中文(繁體)](README-zh-Hant.md) | [English](README-en.md)
 
 ### An API to automatically fetch Bing’s homepage daily updated image.
 
