@@ -2,7 +2,7 @@
 
 # Bing-API
 
-[中文(简体)](README.md) | [English](README-en.md)
+[中文(简体)](README.md) | [中文(繁體)](README-zh-Hant.md) | [English](README-en.md)
 
 ### 一个自动获取 Bing 首页每日更新图片的 API
 
@@ -10,6 +10,6 @@
 
 请在此页面反馈问题: [Issues页面](https://github.com/Zhang12334/Bing-API/issues)
 
-[使用方法](usage-zh_CN.md)
+[使用方法](usage-zh-Hans.md)
   
 </div>
