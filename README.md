@@ -8,6 +8,8 @@
 
 支持多种分辨率，包括 **1366x768**、**1920x1080 (FHD)** 以及 **3840x2160 (UHD 4K)**，满足不同场景需求
 
+可快速私有化部署的 Node.js 版本: [Bing-API-NodeJS](https://github.com/Zhang12334/Bing-API-NodeJS)
+
 请在此页面反馈问题: [Issues页面](https://github.com/Zhang12334/Bing-API/issues)
 
 [使用方法](usage-zh-Hans.md)
